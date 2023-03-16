@@ -5,7 +5,6 @@ Well, Hello There!
 - 🙊 I'm currently learning about Linear Algebra and Cognitive psychology.
 - 🍐 Always looking for Pair Programing & Civil Hacking.
 - 💬 Ask me about Motorcycles, Game Theory, or Theories of Consciousness.
-- 🌈 Pronouns: He/Him/His.
 - 🇺🇸 English & 🇯🇵 日本語
 
 <!---
